@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Gym Management System
+# 🏋️‍♂️ Gym Management Project
 
 A modern and efficient Gym Management System built with **ASP.NET Core MVC** and **SQLite**, designed to streamline gym operations, including member management, workout scheduling, and document handling.
 
