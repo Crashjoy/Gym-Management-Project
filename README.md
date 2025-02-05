@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Gym Management System
 
-A modern and efficient Gym Management System built with **ASP.NET Core MVC** and **SQL Server**, designed to streamline gym operations, including member management, workout scheduling, and document handling.
+A modern and efficient Gym Management System built with **ASP.NET Core MVC** and **SQLite**, designed to streamline gym operations, including member management, workout scheduling, and document handling.
 
 ---
 
@@ -18,8 +18,8 @@ A modern and efficient Gym Management System built with **ASP.NET Core MVC** and
 ## 🛠️ Tech Stack  
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Backend**: ASP.NET Core MVC  
-- **Database**: SQL Server (Entity Framework Core + Dapper)  
+- **Backend**: ASP.NET Core MVC, C#  
+- **Database**: SQLite (Entity Framework Core)  
 - **Authentication**: ASP.NET Identity  
 - **Version Control**: Git & GitHub
 
