@@ -23,6 +23,7 @@ A modern and efficient Gym Management System built with **ASP.NET Core MVC** and
 - **Authentication**: ASP.NET Identity  
 - **Version Control**: Git & GitHub
 
+---
 
 ## 📬 Contact
 
