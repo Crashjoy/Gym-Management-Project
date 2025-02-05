@@ -24,8 +24,8 @@ A modern and efficient Gym Management System built with **ASP.NET Core MVC** and
 - **Version Control**: Git & GitHub
 
 
-📬 Contact
+## 📬 Contact
 
-💼 Aldiyar Baibogurov
-📧 abaibogurov@gmail.com
-🔗 www.linkedin.com/in/aldiyar-baibogurov
+- 💼 Aldiyar Baibogurov
+- 📧 abaibogurov@gmail.com
+- 🔗 www.linkedin.com/in/aldiyar-baibogurov
