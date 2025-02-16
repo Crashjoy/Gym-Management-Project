@@ -8,7 +8,7 @@ A modern and efficient Gym Management System built with **ASP.NET Core MVC** and
 
 🎉 **Try it out on Azure!** Click the link below to access the **published version** of the project.  
 
-🔗 **Live Project**: [[Gym Management](https://gymmanagementproject.azurewebsites.net/)]  
+🔗 **Live Project**: [Gym Management](https://gymmanagementproject.azurewebsites.net/)
 
 ### 🔑 Test User Credentials  
 
@@ -50,4 +50,4 @@ You can log in with different roles using the following credentials:
 
 - 💼 Aldiyar Baibogurov
 - 📧 abaibogurov@gmail.com
-- 🔗 www.linkedin.com/in/aldiyar-baibogurov
+- 🔗 [LinkedIn](www.linkedin.com/in/aldiyar-baibogurov) 
