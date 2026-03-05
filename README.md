@@ -1,53 +1,38 @@
 # 🏋️‍♂️ Gym Management Project
 
-A modern and efficient Gym Management System built with **ASP.NET Core MVC** and **SQLite**, designed to streamline gym operations, including member management, workout scheduling, and document handling.
+## 📋 Project Overview
 
----
+A secure, role-based Gym Management System built with ASP.NET Core MVC and SQLite. Designed to streamline gym operations, this application provides a robust backend for managing member/instructor data, workout scheduling, and secure document handling within a responsive UI.
 
-## 🚀 Live Demo  
+## 🚀 The Challenge
 
-🎉 **Try it out on Azure!** Click the link below to access the **published version** of the project.  
+The core requirement was to build a multi-tenant-ready application that enforces strict data access control. The primary challenge was implementing a secure role-based authorization system that differentiates between administrative, staff, and client access levels while ensuring a seamless user experience.
 
-🔗 **Live Project**: [Gym Management](https://gymmanagementproject.azurewebsites.net/)
+## ✨ Key Features
+- 🔐 **Role-Based Authentication:** Implemented ASP.NET Identity to enforce granular access control for Admins, Supervisors, Staff, and Clients.
+- 📅 **Workout Scheduling:** Dynamic scheduling system allowing instructors to assign and track routines for individual members.
+- 📁 **Secure Document Management:** Integrated file upload capabilities with secure storage and retrieval for instructor-related documentation.
+- 🔍 **Data Management:** Advanced search and filtering functionality across member and instructor databases.
+- 📱 **Responsive UI:** Built with Bootstrap to ensure full mobile compatibility and a user-friendly experience across devices.
 
-### 🔑 Test User Credentials  
+## 🛠️ Tech Stack
+- **Backend:** C#, ASP.NET Core MVC, Entity Framework Core
+- **Database:** SQLite
+- **Security:** ASP.NET Identity (Role-Based Access Control)
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+- **Tools:** Git, GitHub, Visual Studio
 
-You can log in with different roles using the following credentials:  
+## 🏗️ System Architecture
+- **Presentation Layer:** Responsive MVC views providing intuitive dashboards for various user roles.
+- **Logic Layer:** ASP.NET controllers handling business logic, authentication workflows, and data validation.
+- **Data Layer:** Entity Framework Core managing the interaction between the application and the local SQLite database.
+- **Security Layer:** ASP.NET Identity managing secure user registration, login, and authorization tokens.
 
-| Role       | Email                  | Password  |
-|------------|------------------------|-----------|
-| **Admin**  | admin@outlook.com       | Pa55w@rd  |
-| **Security** | security@outlook.com  | Pa55w@rd  |
-| **Supervisor** | supervisor@outlook.com | Pa55w@rd  |
-| **Staff**  | staff@outlook.com       | Pa55w@rd  |
-| **Client** | client@outlook.com      | Pa55w@rd  |
-| **User**   | user@outlook.com        | Pa55w@rd  |
+## 📈 Impact & Results
+- **Operational Efficiency:** Centralized member and instructor management, significantly reducing administrative overhead.
+- **Data Security:** Successfully implemented a robust role-based system ensuring that sensitive data is only accessible to authorized personnel.
 
----
-
-## ✨ Features  
-
-✅ **Member & Instructor Management** – Add, update, and manage gym members and instructors.  
-✅ **Workout Scheduling** – Assign and track workout routines for clients.  
-✅ **Document Uploads** – Securely store and manage documents related to instructors.  
-✅ **Role-Based Authentication** – Ensure secure access with different user roles.  
-✅ **Search & Filtering** – Easily find members, instructors, and workout plans.  
-✅ **Responsive UI** – User-friendly and mobile-compatible design.  
-
----
-
-## 🛠️ Tech Stack  
-
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Backend**: ASP.NET Core MVC, C#  
-- **Database**: SQLite (Entity Framework Core)  
-- **Authentication**: ASP.NET Identity  
-- **Version Control**: Git & GitHub
-
----
-
-## 📬 Contact
-
+# 📬 Contact
 - 💼 Aldiyar Baibogurov
 - 📧 abaibogurov@gmail.com
-- 🔗 [LinkedIn](www.linkedin.com/in/aldiyar-baibogurov) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aldiyar-baibogurov/)
