@@ -12,6 +12,21 @@ workout schedules, and documents — built with ASP.NET Core MVC and SQLite.
 - Automated Excel report generation for admins
 - Responsive UI that works on desktop and mobile
 
+## Screenshots
+
+**Login page**
+![Login](GymManagement/wwwroot/images/LogIn.png)
+
+**Dashboard with member filters**
+![Dashboard](GymManagement/wwwroot/images/DashboardWithFilters.png)
+
+**Roles & security accounts**
+![Roles](GymManagement/wwwroot/images/Roles.png)
+
+**Fitness classes with file upload**
+![Fitness classes](GymManagement/wwwroot/images/FitnessCategories.png)
+
+
 ## Tech stack
 
 - Backend: C#, ASP.NET Core MVC, Entity Framework Core
