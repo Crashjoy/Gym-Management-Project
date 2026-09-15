@@ -24,6 +24,9 @@ workout schedules, and documents — built with ASP.NET Core MVC and SQLite.
     <img src="GymManagement/wwwroot/images/FitnessCategories.png" width="390" height="950" style="object-fit: cover; margin: 0 5px;"/>
 </p>
 
+**Main page**
+![Main page](GymManagement/wwwroot/images/LogIn.png)
+
 ## Tech stack
 
 - Backend: C#, ASP.NET Core MVC, Entity Framework Core
