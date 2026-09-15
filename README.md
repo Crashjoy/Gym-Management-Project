@@ -24,8 +24,17 @@ workout schedules, and documents — built with ASP.NET Core MVC and SQLite.
     <img src="GymManagement/wwwroot/images/FitnessCategories.png" width="390" height="950" style="object-fit: cover; margin: 0 5px;"/>
 </p>
 
-**Main page**
-![Main page](GymManagement/wwwroot/images/LogIn.png)
+**Login page**
+![Login](GymManagement/wwwroot/images/LogIn.png)
+
+**Dashboard with member filters**
+![Dashboard](GymManagement/wwwroot/images/DashboardWithFilters.png)
+
+**Roles & security accounts**
+![Roles](GymManagement/wwwroot/images/Roles.png)
+
+**Fitness classes with file upload**
+![Fitness classes](GymManagement/wwwroot/images/FitnessCategories.png)
 
 ## Tech stack
 
